@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<title>ANJI BIO-DATA</title>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>MY NAME IS ANJI</h1>
+<p>I AMA FROM HYDERABAD</p>
 
 </body>
 </html>
